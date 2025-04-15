@@ -1,0 +1,9 @@
+{
+  "name": "encuesta-cemex",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "formidable": "^3.5.0",
+    "googleapis": "^133.0.0"
+  }
+}
